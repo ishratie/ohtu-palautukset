@@ -1,3 +1,7 @@
 def summa(x, y):
-    # b
+<<<<<<< HEAD
+    #a
+=======
+    #a
+>>>>>>> laskutoimitukset
     return x + y
